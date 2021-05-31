@@ -1,5 +1,5 @@
 ### 👋
-
+I'm a second year Computer Engineering student at USAL, I've been coding casually for 5 years or so and started seriously 2 years ago when I finished high school. I don't enjoy programming that much currently but I like tinkering and doing stupid shit with my knowledge.
 
 - 🔭 I’m currently working on surviving my finals
 - 🌱 I’m currently learning not quite as much as I'd hope to
@@ -7,5 +7,5 @@
 
 ### Languages and Tools:
 - Main: C/C++
-- Usable level: Java, Python, MatLab, JavaScript, Bash
+- Usable level: Java, Python, MatLab, JavaScript, Bash, Arduino
 - I've used them but I don't know what the hell I'm doing 99% of the time: Motorola 6809 Assembler, Verilog
