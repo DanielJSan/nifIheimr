@@ -9,7 +9,7 @@ I'm interested in 3D graphics and game development, audio related plugins and an
 - 📫 How to reach me: Don't
 
 ### Languages and Tools:
-- Main: <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/> <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
+- Main: <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/> <img alt="C++" src="https://img.shields.io/badge/cpp-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
 - Usable level: Java, Python, MatLab, JavaScript, Bash, Arduino
 - I've used them but I don't know what the hell I'm doing 99% of the time: Motorola 6809 Assembler, Verilog
 
