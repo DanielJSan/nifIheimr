@@ -18,7 +18,8 @@ I'm interested in 3D graphics and game development, audio related plugins and an
 <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"/><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 
 ## Stats
-[![nifIheimr's GitHub stats](https://github-readme-stats.vercel.app/api?username=nifIheimr)](https://github.com/anuraghazra/github-readme-stats)
+[![nifIheimr's GitHub stats](https://github-readme-stats.vercel.app/api?username=nifIheimr&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nifIheimr&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Music I enjoy
