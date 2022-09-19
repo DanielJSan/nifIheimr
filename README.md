@@ -1,9 +1,8 @@
 ## 👋
-I'm a former Computer Engineering student.
+I'm a software engineer currently working software development for microcontrollers and IoT applications.
 
 
-I'm interested in 3D graphics and game development, audio related plugins and anything related to graphic design such as web design or user interfaces. I usually go the extra mile on my assignments to create a visually pleasing experience for the user and I might focus on this particular field when I get the chance to do so.
-I'm currently interested in finding a place in which I can obtain professional experience as a developer.
+I'm interested in 3D graphics and game development, audio related plugins and anything related to graphic design. 
 
 ## Languages
 ### Main
