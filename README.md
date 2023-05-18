@@ -1,5 +1,5 @@
 ## 👋
-I'm a software engineer currently working software development for microcontrollers and IoT applications.
+I'm a software engineer currently working on embedded software development.
 
 
 I'm interested in 3D graphics and game development, audio related plugins and anything related to graphic design. 
