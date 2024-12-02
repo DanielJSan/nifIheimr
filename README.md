@@ -1,8 +1,5 @@
 ## 👋
-I'm a software engineer currently working on embedded software development.
-
-
-I'm interested in 3D graphics and game development, audio related plugins and anything related to graphic design. 
+I'm a software engineer experienced in embedded systems and low level programming. I've been tinkering with computers my whole life and I started programming at 15 and since I seemed to have some natural affinity to it I decided to pursue a career developing software. I've worked with microcontrollers, IoT devices, and more complex Linux systems such as toll systems currently in use around the world mainly writing custom firmware, drivers and maintaining legacy code primarily in C and C++. I'm currently specializing in Rust and learning about backend and API development. 
 
 ## Languages
 ### Main
