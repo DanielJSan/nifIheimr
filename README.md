@@ -1,21 +1,39 @@
-## 👋
-I'm a software engineer experienced in embedded systems and low level programming. I've been tinkering with computers my whole life and I started programming at 15 and since I seemed to have some natural affinity to it I decided to pursue a career developing software. I've worked with microcontrollers, IoT devices, and more complex Linux systems such as toll systems currently in use around the world mainly writing custom firmware, drivers and maintaining legacy code primarily in C and C++. I'm currently specializing in Rust and learning about backend and API development. 
+<h2>👋 Hi, I'm Dani</h2>
 
-## Languages
-### Main
-<img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/><img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/><img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/><img alt="CSharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+I'm a software engineer experienced in embedded systems and low level programming, I've worked professionally in IoT, toll systems and briefly in audio hardware for broadcasting. 
 
+I've been tinkering with computers and tech my whole life, which ended up leading me into software development and becoming a generalist due to having many different interests throughout the years.
 
-### Know
-<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/><img alt="Shell Script" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+I spend most of my free time rock climbing, making music, playing videogames or hanging out with my friends
 
-## Technologies
-<img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"/><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/><img alt="LaTeX" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"/>
+### 🛠 Tech Stack
+#### Languages
+![C](https://img.shields.io/badge/_-C?style=plastic&logo=C&logoColor=black&logoSize=auto&label=C&labelColor=white&color=blue)
+![C++](https://img.shields.io/badge/_-C++?style=plastic&logo=C%2B%2B&logoColor=black&logoSize=auto&label=C%2B%2B&labelColor=white&color=lightskyblue)
+![Rust](https://img.shields.io/badge/_-Rust?style=plastic&logo=rust&logoColor=black&logoSize=auto&label=Rust&labelColor=white&color=coral)
+![Java](https://img.shields.io/badge/_-Java?style=plastic&logo=openjdk&logoColor=black&logoSize=auto&label=Java&labelColor=white&color=ff0000)
+![C#](https://img.shields.io/badge/_-C%23?style=plastic&logo=C%2B%2B&logoColor=black&logoSize=auto&label=C%23&labelColor=white&color=green)
+![Python](https://img.shields.io/badge/_-Python?style=plastic&logo=python&logoColor=black&logoSize=auto&label=Python&labelColor=white&color=blue)
+![SQL](https://img.shields.io/badge/_-Java?style=plastic&logo=mysql&logoColor=black&logoSize=auto&label=SQL&labelColor=white&color=blue)
+![Bash](https://img.shields.io/badge/_-Bash?style=plastic&logo=gnubash&logoColor=black&logoSize=auto&label=Bash&labelColor=white&color=lightgreen)
+![HTML](https://img.shields.io/badge/_-HTML?style=plastic&logo=html5&logoColor=black&logoSize=auto&label=HTML&labelColor=white&color=coral)
+![CSS](https://img.shields.io/badge/_-CSS?style=plastic&logo=css3&logoColor=black&logoSize=auto&label=CSS&labelColor=white&color=blue)
 
-## Stats
-[![nifIheimr's GitHub stats](https://github-readme-stats.vercel.app/api?username=nifIheimr&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+#### Tools
+![Linux](https://img.shields.io/badge/_-Linux?style=plastic&logo=linux&logoColor=black&logoSize=auto&label=Linux&labelColor=white&color=gold)
+![Git](https://img.shields.io/badge/_-Git?style=plastic&logo=git&logoColor=black&logoSize=auto&label=Git&labelColor=white&color=coral)
+![Docker](https://img.shields.io/badge/_-Docker?style=plastic&logo=docker&logoColor=black&logoSize=auto&label=Docker&labelColor=white&color=00bfff)
+![Postman](https://img.shields.io/badge/_-Postman?style=plastic&logo=postman&logoColor=black&logoSize=auto&label=Postman&labelColor=white&color=orange)
+![PostgreSQL](https://img.shields.io/badge/_-PostgreSQL?style=plastic&logo=postgresql&logoColor=black&logoSize=auto&label=PostgreSQL&labelColor=white&color=darkblue)
+![VSC](https://img.shields.io/badge/_-Visual_Studio_Code?style=plastic&logo=vscodium&logoColor=black&logoSize=auto&label=VSCode&labelColor=white&color=blue)
+![Ps](https://img.shields.io/badge/_-Photoshop?style=plastic&logo=adobephotoshop&logoColor=black&logoSize=auto&label=Photoshop&labelColor=white&color=darkblue)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nifIheimr&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+### 📊 Stats
+<p align="center">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=nifIheimr&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nifIheimr&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
 
-## Music I enjoy
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=_oathkeeper_&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=_oathkeeper_&redirect=true)
+### 📩 Contact
+<a href="https://www.linkedin.com/in/daniel-juanes-sánchez-986422213/"><img src="https://img.shields.io/badge/Daniel%20Juanes-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
+<a href="mailto:danieljuanessan@gmail.com/"><img src="https://img.shields.io/badge/danieljuanessan@gmail.com-D14836?logo=gmail&logoColor=white"/></a>
