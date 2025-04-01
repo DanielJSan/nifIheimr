@@ -12,7 +12,6 @@ I've been tinkering with computers and tech my whole life, which ended up leadin
 ![C++](https://img.shields.io/badge/_-C++?style=plastic&logo=C%2B%2B&logoColor=black&logoSize=auto&label=C%2B%2B&labelColor=white&color=lightskyblue)
 ![Rust](https://img.shields.io/badge/_-Rust?style=plastic&logo=rust&logoColor=black&logoSize=auto&label=Rust&labelColor=white&color=coral)
 ![Java](https://img.shields.io/badge/_-Java?style=plastic&logo=openjdk&logoColor=black&logoSize=auto&label=Java&labelColor=white&color=ff0000)
-
 ![SQL](https://img.shields.io/badge/_-Java?style=plastic&logo=mysql&logoColor=black&logoSize=auto&label=SQL&labelColor=white&color=blue)
 ![Bash](https://img.shields.io/badge/_-Bash?style=plastic&logo=gnubash&logoColor=black&logoSize=auto&label=Bash&labelColor=white&color=lightgreen)
 ![HTML](https://img.shields.io/badge/_-HTML?style=plastic&logo=html5&logoColor=black&logoSize=auto&label=HTML&labelColor=white&color=coral)
@@ -25,12 +24,11 @@ I've been tinkering with computers and tech my whole life, which ended up leadin
 ![Postman](https://img.shields.io/badge/_-Postman?style=plastic&logo=postman&logoColor=black&logoSize=auto&label=Postman&labelColor=white&color=orange)
 ![PostgreSQL](https://img.shields.io/badge/_-PostgreSQL?style=plastic&logo=postgresql&logoColor=black&logoSize=auto&label=PostgreSQL&labelColor=white&color=darkblue)
 ![VSC](https://img.shields.io/badge/_-Visual_Studio_Code?style=plastic&logo=vscodium&logoColor=black&logoSize=auto&label=VSCode&labelColor=white&color=blue)
-![Ps](https://img.shields.io/badge/_-Photoshop?style=plastic&logo=adobephotoshop&logoColor=black&logoSize=auto&label=Photoshop&labelColor=white&color=darkblue)
 
 ### 📊 Stats
 <p align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=nifIheimr&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nifIheimr&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=DanielJSan&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielJSan&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 
 ### 📩 Contact
