@@ -1,19 +1,18 @@
 <h2>👋 Hi, I'm Dani</h2>
 
-I'm a software engineer experienced in embedded systems and low level programming, I've worked professionally in IoT, toll systems and briefly in audio hardware for broadcasting. 
+I'm a software engineer experienced in backend development and low level programming.
 
 I've been tinkering with computers and tech my whole life, which ended up leading me into software development and becoming a generalist due to having many different interests throughout the years.
 
-I spend most of my free time rock climbing, making music, playing videogames or hanging out with my friends
-
 ### 🛠 Tech Stack
 #### Languages
+![C#](https://img.shields.io/badge/_-C%23?style=plastic&logo=C%2B%2B&logoColor=black&logoSize=auto&label=C%23&labelColor=white&color=green)
+![Python](https://img.shields.io/badge/_-Python?style=plastic&logo=python&logoColor=black&logoSize=auto&label=Python&labelColor=white&color=blue)
 ![C](https://img.shields.io/badge/_-C?style=plastic&logo=C&logoColor=black&logoSize=auto&label=C&labelColor=white&color=blue)
 ![C++](https://img.shields.io/badge/_-C++?style=plastic&logo=C%2B%2B&logoColor=black&logoSize=auto&label=C%2B%2B&labelColor=white&color=lightskyblue)
 ![Rust](https://img.shields.io/badge/_-Rust?style=plastic&logo=rust&logoColor=black&logoSize=auto&label=Rust&labelColor=white&color=coral)
 ![Java](https://img.shields.io/badge/_-Java?style=plastic&logo=openjdk&logoColor=black&logoSize=auto&label=Java&labelColor=white&color=ff0000)
-![C#](https://img.shields.io/badge/_-C%23?style=plastic&logo=C%2B%2B&logoColor=black&logoSize=auto&label=C%23&labelColor=white&color=green)
-![Python](https://img.shields.io/badge/_-Python?style=plastic&logo=python&logoColor=black&logoSize=auto&label=Python&labelColor=white&color=blue)
+
 ![SQL](https://img.shields.io/badge/_-Java?style=plastic&logo=mysql&logoColor=black&logoSize=auto&label=SQL&labelColor=white&color=blue)
 ![Bash](https://img.shields.io/badge/_-Bash?style=plastic&logo=gnubash&logoColor=black&logoSize=auto&label=Bash&labelColor=white&color=lightgreen)
 ![HTML](https://img.shields.io/badge/_-HTML?style=plastic&logo=html5&logoColor=black&logoSize=auto&label=HTML&labelColor=white&color=coral)
